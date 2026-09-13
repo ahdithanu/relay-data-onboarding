@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1789019700572,
+      "tag": "0000_wandering_jigsaw",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1789052518164,
+      "tag": "0001_secret_randall_flagg",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1789052899373,
+      "tag": "0002_lonely_changeling",
+      "breakpoints": true
+    }
+  ]
+}
